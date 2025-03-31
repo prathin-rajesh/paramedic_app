@@ -1,0 +1,14 @@
+{
+  "confirm_route": "Confirm Ambulance Route?",
+  "patient_details": "Patient Details",
+  "name": "Name",
+  "age": "Age",
+  "gender": "Gender",
+  "blood_group": "Blood Group",
+  "blood_pressure": "Blood Pressure",
+  "blood_sugar": "Blood Sugar",
+  "medical_issue": "Medical Issue",
+  "confirm": "Yes",
+  "cancel": "No",
+  "confirmed_message": "Ambulance Route Confirmed Successfully."
+}

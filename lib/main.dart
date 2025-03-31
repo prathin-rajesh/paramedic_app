@@ -13,7 +13,7 @@ class ParamedicApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Hospital Finder',
+      title: 'Paramedic App',
       theme: ThemeData.dark().copyWith(
         primaryColor: Colors.blue,
         scaffoldBackgroundColor: Colors.black,

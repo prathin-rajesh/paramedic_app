@@ -34,7 +34,7 @@ class _PatientFormScreenState extends State<PatientFormScreen> {
 
       try {
         await _firestore.collection('patients').add(patientData);
-        print("Patient data saved to Firestore.");
+        // print("Patient data saved to Firestore.");
 
         // Navigate to the Hospital Suggestion screen
         Navigator.push(
